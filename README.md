@@ -1,26 +1,31 @@
-# roadmap - Single-Page-CV
-Create a single-page HTML CV to showcase your career history
-Project Overview
-The goal of this project is to teach you how to create a structured, single-page CV using only HTML. You will focus on laying out your education, skills, and career history in a clean, semantic manner. Styling will be addressed in a later project.
+# roadmap - Basic HTML WebSite
+Goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.
 
-In this project, you are required to create a single-page CV (Curriculum Vitae) using only HTML. Your webpage should look like the following image:
+In this project, you are required to create a simple HTML only website with multiple pages. The website should have following pages:
 
-![Design preview for the Order summary card coding challenge](./img/CV.png)
+Homepage
+Projects
+Articles
+Contact
+The website should have a navigation bar that should be present on all pages and link to all the pages.
 
-Key requirements for this project:
+You are not required to style the website, you are only required to create the structure of the website using HTML. Goals of this project are:
 
-Semantic HTML: Use appropriate HTML tags to structure your CV.
-SEO Meta Tags: Include essential meta tags for SEO.
-Open Graph (OG) Tags: Add OG tags for better social media sharing.
-Favicon: Add a favicon for your CV page.
-The structure of your CV should be easily understandable and ready for styling in a future project.
--------------------------------------------------------------
-Submission Checklist:
+Learn how to create multiple pages in a website.
+Structure a website using HTML in a semantic way.
+Structure in a way that you can easily add styles later.
+Add SEO meta tags to the website.
+You can use the following mockup example to create the structure of the website (remember, you are not required to style the website, only focus on the structure that you can style later):
+
+![Design preview for the Order summary card coding challenge](./img/Web.png)
+
+Again, make sure that your submission includes the following:
+
 Semantically correct HTML structure.
-Single-page layout with sections for education, skills, and career history.
-SEO meta tags in the head section.
-OG tags for better social media sharing.
-A favicon linked in the head section.
+Multiple pages with a navigation bar.
+SEO meta tags in the head of each page.
+Contact page should have a form with fields like name, email, message etc.
+After completing this project, you will have a good understanding of how to structure a website using HTML, basic SEO meta tags, HTML tags, forms etc. You can now move on to the next project where you will learn how to style this website using CSS.
 
 -------------------------------------------------------------
-For more information, visit:For more information, visit: https://roadmap.sh/projects/single-page-cv
+For more information, visit:For more information, visit: https://roadmap.sh/projects/basic-html-website
